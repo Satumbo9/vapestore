@@ -7,7 +7,7 @@ import Link from "next/link";
 const NavLinks = () => {
   return (
     <nav
-      className="flex  h-32 items-center text-2xl justify-between bg-[#CFCFBD] px-10 border-b-4 border-[#242324]
+      className="flex  h-28 items-center text-2xl justify-between bg-[#CFCFBD] px-10 border-b-2  border-[#242324] 
 
 "
     >

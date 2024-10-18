@@ -4,7 +4,7 @@ import { BiSolidHeart } from "react-icons/bi";
 
 const TopperMenu = () => {
   return (
-    <div className="h-20 bg-[#242324] flex justify-between px-10 text-2xl items-center       font-bold uppercase ">
+    <div className="h-14 bg-[#242324] hidden xl:flex justify-between px-10 text-xl items-center    font-bold uppercase ">
       <div className="flex gap-5 items-center justify-center">
         <BiSolidMessageDots
           style={{ width: 40, height: 40, color: "#9FC7B1" }}
